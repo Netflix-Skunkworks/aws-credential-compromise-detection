@@ -1,6 +1,6 @@
 # Detecting Credential Compromise in AWS
 
-This following code is an example implementation of the method described [here](docs/us-18-Bengtson-Detecting-Credential-Compromise-In-AWS.pdf)
+This following code is an example implementation of the method described [here](docs/us-18-Bengtson-Detecting-Credential-Compromise-In-AWS-wp.pdf)
 
 ## Getting Started
 
